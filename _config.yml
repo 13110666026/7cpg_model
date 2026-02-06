@@ -1,0 +1,1 @@
+include: [shinylive, _headers, shinylive-sw.js]
